@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-In this program I ask the user to agree by writing "y", "Y","n" or "N" in the prompt. 
+In this program I ask the user to agree by writing "y", "Y","n" or "N" in the prompt.
 
 The `||` means logical OR. The character is "y" OR "Y", both lowercase and uppercase y is recognized as a Yes answer.
 
